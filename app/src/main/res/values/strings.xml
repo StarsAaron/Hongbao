@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">微信自动抢红包</string>
+    <string name="description">如果发现自动抢红包没反应，请检查微信的版本是否是最新的6.5.3版，其它旧版本的ID可能不一样导致无法触发点击事件。</string>
+    <string name="label">微信6.5.3版自动抢红包</string>
+    <string name="description2">说明：\n如果发现自动抢红包没反应，请检查微信的版
+        本是否是最新的6.5.3版，其它旧版本的ID可能不一样导致无法触发点击事件。QQ的自动获取红包原
+        理类似，但可能复杂点，例如:口令红包.\n\n本软件只用于技术交流，勿商用。\n\n---Make by Aaron</string>
+</resources>
